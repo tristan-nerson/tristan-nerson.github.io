@@ -18,6 +18,11 @@ I am a **doctoral researcher** at the [Laboratory of Wave Engineering](https://w
 
 I also followed the **Cursus Master en Ingénierie (CMI)**, a selective national five-year engineering program alongside my university degrees, with approximately 20% additional coursework.
 
+## Grants and awards
+
+- **IOP Trusted Reviewer Status**, 2025.
+- **IA-GS Excellence Scholarship**, 2022–2024 — €5,000 per year for both years of my MSc.
+
 ## Selected research experience
 
 - **University of Oxford**, visiting research assistant in sonochemistry and acoustics, 2023.
@@ -28,6 +33,17 @@ I also followed the **Cursus Master en Ingénierie (CMI)**, a selective national
 I have been a teaching assistant for General Physics: Mechanics (2024), General Physics: Quantum Physics (2025), and Physics Laboratory III (2025). I also observed oral examinations in Cavitation and Interface Phenomena (2024).
 
 I am currently preparing a new **Physical Acoustics** course with Prof. Romain Fleury. In 2026, I supervised two students on research projects: **Antoine Bourel de La Roncière** (Mines Paris – PSL) and **Luca Radusi** (EPFL).
+
+## Peer review
+
+I have reviewed 7 manuscripts across 12 review rounds (2025–2026):
+
+| Journal                                                                                                                                                  | Manuscripts | Review rounds |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------: | ------------: |
+| [_Reports on Progress in Physics_](https://publishingsupport.iopscience.iop.org/journals/reports-on-progress-in-physics/about-reports-progress-physics/) |           3 |             5 |
+| [_Physica Scripta_](https://publishingsupport.iopscience.iop.org/journals/physica-scripta/about-physica-scripta/)                                        |           2 |             4 |
+| [_Physics of Fluids_](https://pubs.aip.org/aip/pof)                                                                                                      |           1 |             2 |
+| [_IEEE Transactions on Ultrasonics_](https://ieee-uffc.org/publication/t-uson)                                                                           |           1 |             1 |
 
 ## Selected skills
 
