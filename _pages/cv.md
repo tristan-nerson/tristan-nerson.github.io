@@ -12,7 +12,7 @@ I am a **doctoral researcher** at the [Laboratory of Wave Engineering](https://w
 
 ## Education
 
-- **MSc, Wave Physics and Acoustics**, Le Mans Université, 2022–2024. I studied acoustic cavitation, coupled-bubble dynamics, and ultrasound-driven chemistry.
+- **MSc, Wave Physics and Acoustics**, Le Mans Université, 2022–2024. I studied wave physics broadly; my extended master's research project focused on acoustic cavitation, coupled-bubble dynamics, and ultrasound-driven chemistry.
 - **BSc, Acoustics and Vibrations**, Le Mans Université, 2019–2022. My projects included topological solitons in a chain of coupled pendulums ([video with Hubert Coste](https://www.youtube.com/watch?v=lXLFGMEnyTc)) and the acoustics of a guitar sound box.
 - **Exchange studies**, KTH Royal Institute of Technology, 2022.
 
