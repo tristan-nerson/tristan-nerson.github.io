@@ -18,6 +18,15 @@ latest_posts:
 
 <style>
   .publications .abbr img.preview { width: 100%; height: auto; }
+  @media (max-width: 575px) {
+    .profile.float-right {
+      float: none !important;
+      width: 180px;
+      max-width: 60vw;
+      margin: 0 auto 1rem;
+      text-align: center;
+    }
+  }
 </style>
 
 I am a doctoral researcher at EPFL's [Laboratory of Wave Engineering](https://www.epfl.ch/labs/lwe/), working with Prof. Romain Fleury. I study **wave scattering** and wave–matter interactions across acoustics, electromagnetism, and water waves, with a focus on controlling forces and torques.
