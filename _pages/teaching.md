@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
+description: Teaching and student supervision at EPFL.
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+| Year | Course or activity                                                |
+| ---- | ----------------------------------------------------------------- |
+| 2024 | General Physics: Mechanics — teaching assistant                   |
+| 2024 | Cavitation and Interface Phenomena — oral examination observation |
+| 2025 | General Physics: Quantum Physics — teaching assistant             |
+| 2025 | Physics Laboratory III — teaching assistant                       |
+| 2026 | Physical Acoustics — course preparation with Prof. Romain Fleury  |
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+**Student supervision:** 2 student projects (2026).
