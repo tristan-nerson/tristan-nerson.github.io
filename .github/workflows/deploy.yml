@@ -112,7 +112,7 @@ jobs:
           (async () => {
             const browser = await chromium.launch();
             fs.mkdirSync('site-preview', { recursive: true });
-            for (const [name, path] of [['home', '/'], ['research', '/research/'], ['cv', '/cv/'], ['publications', '/publications/']]) {
+            for (const [name, path] of [['home', '/'], ['research', '/research/'], ['cv', '/cv/'], ['publications', '/publications/'], ['teaching', '/teaching/'], ['presentations', '/talks/']]) {
               const page = await browser.newPage({ viewport: { width: 1280, height: 900 }, deviceScaleFactor: 1 });
               await page.goto('http://127.0.0.1:4000' + path, { waitUntil: 'load' });
               await page.evaluate(() => document.fonts.ready);

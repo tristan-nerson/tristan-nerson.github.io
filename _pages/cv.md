@@ -4,12 +4,11 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-description: Academic background and selected experience of Tristan Nerson.
 ---
 
 ## Current position
 
-**Doctoral researcher**, [Laboratory of Wave Engineering](https://www.epfl.ch/labs/lwe/), EPFL, Lausanne. Doctoral Program in Physics; supervised by Prof. Romain Fleury.
+I am a **doctoral researcher** at the [Laboratory of Wave Engineering](https://www.epfl.ch/labs/lwe/), EPFL, Lausanne, in the Doctoral Program in Physics, supervised by Prof. Romain Fleury.
 
 ## Education
 
@@ -24,7 +23,9 @@ description: Academic background and selected experience of Tristan Nerson.
 
 ## Teaching and mentoring
 
-Teaching assistant for general physics and laboratory courses at EPFL (2024–2025). Contributed to the preparation of Physical Acoustics (2026). Co-supervised **2 student projects**.
+I have been a teaching assistant for General Physics: Mechanics (2024), General Physics: Quantum Physics (2025), and Physics Laboratory III (2025). I also observed oral examinations in Cavitation and Interface Phenomena (2024).
+
+I am currently preparing a new **Physical Acoustics** course with Prof. Romain Fleury. I have supervised **2 student projects** (2026).
 
 ## Selected skills
 
