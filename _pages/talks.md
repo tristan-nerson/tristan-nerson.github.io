@@ -12,7 +12,7 @@ nav_order: 4
 - **[Les Gustins Summer School](https://www.lesgustins-summerschool.fr/)**, Aiguebelette-le-Lac, France (2026): “Quadratic optimizations in wave physics” (3 h 30 lecture).
 - **[Les Gustins Summer School](https://www.lesgustins-summerschool.fr/archives.html)**, Aiguebelette-le-Lac, France (2025): “Introduction to the generalized Wigner–Smith matrix for wavefront shaping” (1 h seminar).
 - **[184th Meeting of the Acoustical Society of America](https://acousticalsociety.org/program-of-184th-meeting-of-the-acoustical-society-of-america/)**, Chicago, USA (2023): “Optimization of radical polymerization in water through the characterization of the pressure field in nested cavities excited by a piezoelectric transducer.” [Meeting abstract](https://doi.org/10.1121/10.0018207).
-- **Semilaum**, Laboratoire d’Acoustique de l’Université du Mans, France (2022): “Topology of singularities in pressure wave fields.” [Recording](https://www.youtube.com/watch?v=4GPO7JMPUTY).
+- **Semilaum**, Laboratoire d’Acoustique de l’Université du Mans, France (2022): “Topology of singularities in pressure wave fields.” [Recording](https://youtu.be/4GpO7JMpUtY).
 
 ### Posters and other events attended
 
