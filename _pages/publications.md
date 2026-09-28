@@ -4,8 +4,11 @@ permalink: /publications/
 title: publications
 nav: true
 nav_order: 2
-description: My journal article and public preprint.
 ---
+
+<style>
+  .publications .abbr img.preview { width: 100%; height: auto; }
+</style>
 
 <div class="publications">
 {% bibliography %}

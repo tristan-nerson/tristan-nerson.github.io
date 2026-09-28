@@ -12,9 +12,11 @@ I am a **doctoral researcher** at the [Laboratory of Wave Engineering](https://w
 
 ## Education
 
-- **MSc, Wave Physics and Acoustics**, Le Mans Université, 2022–2024.
-- **BSc, Acoustics and Vibrations**, Le Mans Université, 2019–2022.
+- **MSc, Wave Physics and Acoustics**, Le Mans Université, 2022–2024. I studied acoustic cavitation, coupled-bubble dynamics, and ultrasound-driven chemistry.
+- **BSc, Acoustics and Vibrations**, Le Mans Université, 2019–2022. My projects included topological solitons in a chain of coupled pendulums ([video with Hubert Coste](https://www.youtube.com/watch?v=lXLFGMEnyTc)) and the acoustics of a guitar sound box.
 - **Exchange studies**, KTH Royal Institute of Technology, 2022.
+
+I also followed the **Cursus Master en Ingénierie (CMI)**, a selective national five-year engineering program alongside my university degrees, with approximately 20% additional coursework.
 
 ## Selected research experience
 
@@ -25,11 +27,11 @@ I am a **doctoral researcher** at the [Laboratory of Wave Engineering](https://w
 
 I have been a teaching assistant for General Physics: Mechanics (2024), General Physics: Quantum Physics (2025), and Physics Laboratory III (2025). I also observed oral examinations in Cavitation and Interface Phenomena (2024).
 
-I am currently preparing a new **Physical Acoustics** course with Prof. Romain Fleury. I have supervised **2 student projects** (2026).
+I am currently preparing a new **Physical Acoustics** course with Prof. Romain Fleury. In 2026, I supervised two students on research projects: **Antoine Bourel de La Roncière** (Mines Paris – PSL) and **Luca Radusi** (EPFL).
 
 ## Selected skills
 
-Python · LaTeX · Mathematica · COMSOL Multiphysics · experimental acoustics · wavefront shaping · scattering-matrix measurements · numerical optimization · scientific instrumentation · cleanroom microfabrication.
+Theoretical and experimental wave physics · Python · LaTeX · Mathematica · COMSOL Multiphysics · experimental acoustics · wavefront shaping · scattering-matrix measurements · numerical optimization · scientific instrumentation · cleanroom microfabrication.
 
 ## Languages
 
