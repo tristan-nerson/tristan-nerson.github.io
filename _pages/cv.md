@@ -27,7 +27,7 @@ I also followed the **Cursus Master en Ingénierie (CMI)**, a selective national
 
 I have been a teaching assistant for General Physics: Mechanics (2024), General Physics: Quantum Physics (2025), and Physics Laboratory III (2025). I also observed oral examinations in Cavitation and Interface Phenomena (2024).
 
-I am currently preparing a new **Physical Acoustics** course with Prof. Romain Fleury. I have supervised **2 student projects** (2026).
+I am currently preparing a new **Physical Acoustics** course with Prof. Romain Fleury. In 2026, I supervised two students on research projects: **Antoine Bourel de La Roncière** (Mines Paris – PSL) and **Luca Radusi** (EPFL).
 
 ## Selected skills
 

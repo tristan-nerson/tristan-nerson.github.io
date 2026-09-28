@@ -14,4 +14,4 @@ nav_order: 3
 | 2024 | Cavitation and Interface Phenomena — oral examination observation    |
 | 2024 | General Physics: Mechanics — teaching assistant                      |
 
-I have supervised **2 student projects** (2026).
+In 2026, I supervised two students on research projects: **Antoine Bourel de La Roncière** (Mines Paris – PSL) and **Luca Radusi** (EPFL).
