@@ -16,6 +16,10 @@ latest_posts:
   enabled: false
 ---
 
+<style>
+  .publications .abbr img.preview { width: 100%; height: auto; }
+</style>
+
 I am a doctoral researcher at EPFL's [Laboratory of Wave Engineering](https://www.epfl.ch/labs/lwe/), working with Prof. Romain Fleury. I study **wave scattering** and wave–matter interactions across acoustics, electromagnetism, and water waves, with a focus on controlling forces and torques.
 
 My work combines theory, computation, and experiments in complex scattering environments. I am particularly interested in wavefront shaping, multiobjective control, and micromanipulation that adapts to its surroundings without a detailed model.
