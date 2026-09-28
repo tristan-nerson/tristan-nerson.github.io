@@ -4,7 +4,6 @@ permalink: /teaching/
 title: teaching
 nav: true
 nav_order: 3
-description: Teaching and student supervision at EPFL.
 ---
 
 | Year | Course or activity                                                   |

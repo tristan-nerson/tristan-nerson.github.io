@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral researcher in wave physics at <a href="https://www.epfl.ch/labs/lwe/">EPFL · Laboratory of Wave Engineering</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -23,6 +22,6 @@ My work combines theory, computation, and experiments in complex scattering envi
 
 ### Scientific community
 
-I help organize the [SCARF Winter Workshop](https://www.epfl.ch/labs/lwe/scarf/) on scattering, acoustics, and radiation forces, and the [Les Gustins Summer School](https://www.lesgustins-summerschool.fr/) in physics and mathematics.
+I co-organize the [SCARF Winter Workshop](https://www.epfl.ch/labs/lwe/scarf/) on scattering, acoustics, and radiation forces, and the [Les Gustins Summer School](https://www.lesgustins-summerschool.fr/) in physics and mathematics.
 
 [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }})
