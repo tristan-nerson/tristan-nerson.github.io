@@ -12,8 +12,6 @@ My current interests include radiation forces and torques, wavefront shaping in 
 
 Some of my work also explores more broadly how an environment changes the response of a radiating system. Details of ongoing projects will be added when they are public.
 
-This video shows a public demonstration of model-free particle manipulation using electrical measurements to adapt the actuation.
-
 <video controls playsinline preload="metadata" poster="{{ '/assets/img/publication_preview/manipulation-video-poster.jpg' | relative_url }}" style="width: 100%; max-width: 720px;" aria-label="Model-free particle manipulation in a microfluidic device">
   <source src="{{ '/assets/video/model-free-particle-manipulation.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support embedded video.
