@@ -8,7 +8,7 @@ middle_name:
 last_name: Nerson
 contact_note: "Research enquiries: tristan.nerson@epfl.ch"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Tristan Nerson is a doctoral researcher in wave physics at EPFL, studying wave-matter interactions and the control of radiation forces.
+  I am a doctoral researcher in wave physics at EPFL, studying scattering, wave-matter interactions, and the control of radiation forces.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 nav: true
 nav_order: 2
-description: Journal article and public preprint by Tristan Nerson.
+description: My journal article and public preprint.
 ---
 
 <div class="publications">
