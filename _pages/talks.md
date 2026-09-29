@@ -8,6 +8,7 @@ nav_order: 4
 
 ### Oral presentations
 
+- **Invited Lecture: [MetaMAT: Mechanical, Acoustic, Thermal 2027](https://metamat2027.sciencesconf.org/?lang=en)**, Hangzhou, China (2027): Upcoming. 
 - **[Metamaterials'2026](https://congress.metamorphose-vi.org/index.php/8-general-information/1-metamaterials-20161)**, the 20th International Congress on Artificial Materials for Novel Wave Phenomena, New York City, USA (2026): “Multi-Objective Tweezers in Scattering Media via Generalized Wigner-Smith Matrices.” [Program](https://congress.metamorphose-vi.org/index.php/component/svisor/?task=showScheduleSvisor&Itemid=156).
 - **[Les Gustins Summer School](https://www.lesgustins-summerschool.fr/)**, Aiguebelette-le-Lac, France (2026): “Quadratic optimizations in wave physics” (3 h 30 lecture).
 - **[Les Gustins Summer School](https://www.lesgustins-summerschool.fr/archives.html)**, Aiguebelette-le-Lac, France (2025): “Introduction to the generalized Wigner–Smith matrix for wavefront shaping” (1 h seminar).
@@ -16,6 +17,7 @@ nav_order: 4
 
 ### Posters and other events attended
 
+- **EPFL Physics Day**, Lausanne, Switzerland (2026) — poster: Upcoming.
 - **[Waves in Complex Media 2026](https://www.institut-langevin.espci.fr/waves_in_complex_media_2026)**, Cargèse, France (2026) — poster.
 - **[European Summer School on Physical Acoustics and its Applications](https://physacoustics.sciencesconf.org/)**, Cargèse, France (2024) — poster.
 - **[Wave Propagation and Control in Complex Media](https://complexmedia2024.sciencesconf.org/)**, Cargèse, France (2024).
