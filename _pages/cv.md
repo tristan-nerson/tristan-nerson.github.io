@@ -20,6 +20,7 @@ I also followed the **Cursus Master en Ingénierie (CMI)**, a selective national
 
 ## Grants and awards
 
+- **Best Poster Award**, _In recognition of outstanding scientific quality, clarity and originality (second prize)_, Doctoral Program in Physics, EPFL Physics Day 2026.
 - **IOP Trusted Reviewer Status**, 2025.
 - **IA-GS Excellence Scholarship**, 2022–2024 — €5,000 per year for both years of my MSc.
 
