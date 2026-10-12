@@ -18,7 +18,7 @@ nav_order: 4
 
 ### Posters and other events attended
 
-- **EPFL Physics Day**, Lausanne, Switzerland (2026) — poster: Upcoming.
+- **EPFL Physics Day - Best Poster Award**, _In recognition of outstanding scientific quality, clarity and originality (second prize)_, Lausanne, Switzerland (2026) — “Wave-momentum shaping with and without losses”.
 - **[Waves in Complex Media 2026](https://www.institut-langevin.espci.fr/waves_in_complex_media_2026)**, Cargèse, France (2026) — poster.
 - **[European Summer School on Physical Acoustics and its Applications](https://physacoustics.sciencesconf.org/)**, Cargèse, France (2024) — poster.
 - **[Wave Propagation and Control in Complex Media](https://complexmedia2024.sciencesconf.org/)**, Cargèse, France (2024).
