@@ -8,7 +8,7 @@ nav_order: 4
 
 ### Oral presentations
 
-- **Invited Lecture: [MetaMAT: Mechanical, Acoustic, Thermal 2027](https://metamat2027.sciencesconf.org/?lang=en)**, Hangzhou, China (2027): Upcoming. 
+- **Invited Lecture: [MetaMAT: Mechanical, Acoustic, Thermal 2027](https://metamat2027.sciencesconf.org/?lang=en)**, Hangzhou, China (2027): Upcoming.
 - **Invited Lecture: [eWaves Lunch & Science, IETR](https://www.ietr.fr/en/ewaves-electromagnetic-waves-complex-media-team)**, Rennes, France (2026): “Shaping radiation forces in complex media” (1 h seminar).
 - **[Metamaterials'2026](https://congress.metamorphose-vi.org/index.php/8-general-information/1-metamaterials-20161)**, the 20th International Congress on Artificial Materials for Novel Wave Phenomena, New York City, USA (2026): “Multi-Objective Tweezers in Scattering Media via Generalized Wigner-Smith Matrices” [Program](https://congress.metamorphose-vi.org/index.php/component/svisor/?task=showScheduleSvisor&Itemid=156).
 - **[Les Gustins Summer School](https://www.lesgustins-summerschool.fr/)**, Aiguebelette-le-Lac, France (2026): “Quadratic optimizations in wave physics” (3 h 30 lecture).
