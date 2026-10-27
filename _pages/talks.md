@@ -18,7 +18,13 @@ nav_order: 4
 
 ### Posters and other events attended
 
-- **EPFL Physics Day - Best Poster Award**, _In recognition of outstanding scientific quality, clarity and originality (second prize)_, Lausanne, Switzerland (2026) — “Wave-momentum shaping with and without losses”.
+- **[EPFL Physics Day 2026](https://actu.epfl.ch/news/physics-day-2026-a-day-of-scientific-exchange-and/)**, Lausanne, Switzerland — “Wave-momentum shaping with and without losses” (poster; second prize, Best Poster Award).
+
+<figure style="width: 100%; max-width: 420px; margin: 1rem 0 1.5rem;">
+  <img src="{{ '/assets/img/physics-day-2026-award.jpg' | relative_url }}" alt="Tristan Nerson holding his Best Poster Award beside Konstantin Novoselov at EPFL Physics Day 2026" style="display: block; width: 100%; aspect-ratio: 5 / 4; object-fit: cover; object-position: center 34%; border-radius: 6px;" loading="lazy">
+  <figcaption style="font-size: 0.85em; margin-top: 0.4rem;">With Konstantin Novoselov at <a href="https://actu.epfl.ch/news/physics-day-2026-a-day-of-scientific-exchange-and/">EPFL Physics Day 2026</a>.</figcaption>
+</figure>
+
 - **[Waves in Complex Media 2026](https://www.institut-langevin.espci.fr/waves_in_complex_media_2026)**, Cargèse, France (2026) — poster.
 - **[European Summer School on Physical Acoustics and its Applications](https://physacoustics.sciencesconf.org/)**, Cargèse, France (2024) — poster.
 - **[Wave Propagation and Control in Complex Media](https://complexmedia2024.sciencesconf.org/)**, Cargèse, France (2024).
