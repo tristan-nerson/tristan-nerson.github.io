@@ -37,8 +37,6 @@ I am currently preparing a new **Physical Acoustics** course with Prof. Romain F
 
 ## Peer review
 
-I have reviewed 7 manuscripts across 13 review rounds (2025–2026):
-
 | Journal                                                                                                                                                  | Manuscripts | Review rounds |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------: | ------------: |
 | [_Reports on Progress in Physics_](https://publishingsupport.iopscience.iop.org/journals/reports-on-progress-in-physics/about-reports-progress-physics/) |           3 |             5 |
